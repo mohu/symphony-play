@@ -1,0 +1,43 @@
+============================================
+Log Created: 2012-09-03T22:35:45+01:00
+============================================
+Symphony Log
+Version: 2.2.1
+--------------------------------------------
+03 September 2012 22:48 > User Notice: The page you requested, <code></code>, does not exist. in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 315
+04 September 2012 00:20 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/workspace/pages/home.xsl line 22 element value-of
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression ''
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:21 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): /Users/art/Sites/play/sympl/workspace/pages/home.xsl:24: parser error : Opening and ending tag mismatch: h2 line 24 and h1
+Line: 145 - XSLTProcessor::importStylesheet():                     <h2>Related</h1>
+Line: 145 - XSLTProcessor::importStylesheet():                                     ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/ line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/art/Sites/play/sympl/workspace/pages/home.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:22 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): /Users/art/Sites/play/sympl/workspace/pages/home.xsl:24: parser error : Opening and ending tag mismatch: h2 line 24 and h1
+Line: 145 - XSLTProcessor::importStylesheet():                     <h2>Related</h1>
+Line: 145 - XSLTProcessor::importStylesheet():                                     ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/ line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/art/Sites/play/sympl/workspace/pages/home.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:29 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/workspace/pages/home.xsl line 25 element value-of
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression 'count(related-a/[item])'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:29 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/workspace/pages/home.xsl line 25 element value-of
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression 'count(related-a[item]/)'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:29 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/workspace/pages/home.xsl line 25 element value-of
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression 'count(related-a[item/])'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:29 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/workspace/pages/home.xsl line 25 element value-of
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression 'count(related-a[item/])'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
+04 September 2012 00:30 > UNKNOWN: Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/art/Sites/play/sympl/workspace/pages/home.xsl line 25 element value-of
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression 'count(related-a/[item])'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/art/Sites/play/sympl/symphony/lib/toolkit/class.frontendpage.php on line 272
