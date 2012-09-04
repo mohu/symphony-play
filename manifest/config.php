@@ -47,7 +47,7 @@
 			'host' => 'localhost',
 			'port' => '3306',
 			'user' => 'root',
-			'password' => 'skoot',
+			'password' => 'communist10',
 			'db' => 'sympl',
 			'tbl_prefix' => 'sym_',
 		),

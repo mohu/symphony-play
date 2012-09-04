@@ -20,7 +20,8 @@
 				'awesome',
 				'basic-philosophy',
 				'related-a',
-				'related-philosophies'
+				'related-philosophies: name',
+				'related-philosophies: description'
 		);
 
 
@@ -34,10 +35,10 @@
 				'name' => 'Philosophers',
 				'author' => array(
 					'name' => 'Arthur Comben',
-					'website' => 'http://sympl.dev',
+					'website' => 'http://play-symphony.dev',
 					'email' => 'art@studiomohu.com'),
 				'version' => '1.0',
-				'release-date' => '2012-09-03T23:46:13+00:00'
+				'release-date' => '2012-09-04T09:36:43+00:00'
 			);
 		}
 

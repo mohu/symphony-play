@@ -31,7 +31,7 @@
                             </xsl:for-each>
                             <xsl:for-each select="related-philosophies/item">
                                 <li>
-                                    <xsl:value-of select="text()" />
+                                    <xsl:value-of select="name" />: <xsl:value-of select="description" />
                                 </li>
                             </xsl:for-each>
                         </ul>
